@@ -1,2 +1,5 @@
 # Python-Lorem-Ipsum-Search
-Searches through .txt file for specified word and how many times it is used
+Jack Hopkins
+IDE used: PyCharm
+Language used: Python
+Searches through .txt file for specified word and how many times it is used (simple)
